@@ -1,0 +1,80 @@
+{
+  "id": "design-futures-2025",
+  "hero": {
+    "date": "JUNE 22, 2025",
+    "title": "The BluePrint Series: Design Futures with Sarah Chen",
+    "location": "BROOKLYN MUSEUM, NEW YORK",
+    "image": "https://c.animaapp.com/mh6sbc8t9JNhJV/img/fifa-world-richtu-vertical-poster-1.png"
+  },
+  "introduction": {
+    "title": "INTRODUCTION OF THIS EVENT",
+    "description": "Join us for an inspiring conversation with Sarah Chen, the visionary designer behind some of tech's most iconic interfaces. Explore the intersection of AI, design, and human experience in this exclusive Blueprint Series event."
+  },
+  "agenda": [
+    {
+      "time": "2:00 PM - 2:30 PM",
+      "title": "REGISTRATION AND WELCOME",
+      "description": "Check in and enjoy light refreshments while networking with fellow attendees",
+      "location": "MAIN LOBBY"
+    },
+    {
+      "time": "2:30 PM - 3:30 PM",
+      "title": "KEYNOTE: DESIGNING FOR AI",
+      "description": "Sarah Chen shares insights on creating human-centered experiences in an AI-driven world",
+      "location": "AUDITORIUM"
+    },
+    {
+      "time": "3:30 PM - 4:00 PM",
+      "title": "COFFEE BREAK",
+      "description": "Network and discuss key takeaways from the keynote",
+      "location": "GALLERY SPACE"
+    },
+    {
+      "time": "4:00 PM - 5:00 PM",
+      "title": "PANEL DISCUSSION",
+      "description": "Industry leaders discuss the future of design and technology",
+      "location": "AUDITORIUM"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Sarah Chen",
+      "role": "DESIGN DIRECTOR",
+      "image": "https://c.animaapp.com/mh6sbc8t9JNhJV/img/image-2.png"
+    },
+    {
+      "name": "Marcus Johnson",
+      "role": "TECH INNOVATOR",
+      "image": "https://c.animaapp.com/mh6sbc8t9JNhJV/img/image-1.png"
+    },
+    {
+      "name": "Elena Rodriguez",
+      "role": "MODERATOR",
+      "image": "https://c.animaapp.com/mh6sbc8t9JNhJV/img/image.png"
+    }
+  ],
+  "eventDetails": {
+    "description": "Part of The Gradient's Blueprint Series, this event brings together leading voices in design and technology. Moderated by Elena Rodriguez, the discussion will explore how designers are shaping the future of human-AI interaction and what it means for the next generation of digital experiences."
+  },
+  "previousEvents": {
+    "title": "OUR PAST EVENTS",
+    "images": [
+      "https://c.animaapp.com/mh6sbc8t9JNhJV/img/image-3.png",
+      "https://c.animaapp.com/mh6sbc8t9JNhJV/img/image-4.png",
+      "https://c.animaapp.com/mh6sbc8t9JNhJV/img/image-5.png",
+      "https://c.animaapp.com/mh6sbc8t9JNhJV/img/image-6.png"
+    ]
+  },
+  "faq": [
+    {
+      "id": "item-1",
+      "question": "WHAT IS THE SCHEDULE FOR THE EVENT?",
+      "answer": "The event runs from 2:00 PM to 5:00 PM, including registration, keynote presentation, networking break, and panel discussion."
+    },
+    {
+      "id": "item-2",
+      "question": "IS THIS EVENT SUITABLE FOR BEGINNERS?",
+      "answer": "Absolutely! While we'll discuss advanced topics, the content is accessible to designers at all levels. It's a great opportunity to learn from industry leaders."
+    }
+  ]
+}
