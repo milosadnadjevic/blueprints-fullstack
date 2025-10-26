@@ -1,4 +1,4 @@
-// File: /Users/milos/my_projects/blueprints-fullstack-done/frontend/app/layout.js
+// File: /Users/milos/practice/homework/blueprints-fullstack/frontend/app/layout.js
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

@@ -1,4 +1,4 @@
-// File: /Users/milos/my_projects/blueprints-fullstack-done/frontend/app/events/[eventId]/page.js
+// File: /Users/milos/practice/homework/blueprints-fullstack/frontend/app/events/[eventId]/page.js
 import * as entry from '../../../../../app/events/[eventId]/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
